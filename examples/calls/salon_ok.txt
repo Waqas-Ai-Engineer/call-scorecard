@@ -1,0 +1,4 @@
+Agent: Good morning, welcome to Glow Salon.
+Caller: I'm Maria Gomez, I'd like a haircut. My number is 555-203-9911.
+Agent: Happy to help! I have Friday at 2 pm. I've booked you for Friday at 2 pm.
+Caller: Great.

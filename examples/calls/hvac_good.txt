@@ -1,0 +1,9 @@
+Agent: Thank you for calling Summit HVAC. This call may be recorded for quality. How can I help?
+Caller: Hi, my name is Dana Lee. We have no heat at all and it's freezing.
+Agent: I'm sorry to hear that, Dana. Let's get this sorted today. What's the service address?
+Caller: 42 Maple Street.
+Agent: Thanks. And the best callback number?
+Caller: 555-014-2210, email is dana@example.com
+Agent: A technician can come this afternoon at 3 pm or tomorrow at 9 am. Which works?
+Caller: Today at 3 pm please.
+Agent: You're booked for 3 pm today. You'll receive a confirmation text, and a technician will call before arriving.

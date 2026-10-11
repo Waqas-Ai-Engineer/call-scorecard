@@ -1,0 +1,5 @@
+Agent: Hello.
+Caller: How much for a new roof? It's leaking a bit.
+Agent: It depends. Call back later.
+Caller: Okay, maybe later, too expensive probably.
+Agent: We guarantee the best result.
